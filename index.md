@@ -21,7 +21,7 @@
 			<ul>
 				<li>Things to remember in your first. Click<a class="index-links" href="#remember"> Here</a></li>
 				<li>Things you can do if you need help. Click<a class="index-links" href="#help"> Here</a></li>
-				<li>Navigating around the buildings. Click<a class="index-links "href="#navigate"> Here</a></li>
+				<li>Navigating around the buildings. Click<a class="index-links" href="#navigate"> Here</a></li>
 			</ul>
 		<h2 id="remember"><strong>Things to remember for your first week!</strong></h2>
 			<ul>
