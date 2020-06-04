@@ -143,7 +143,7 @@
 				</div>
 				<a href="https://jamieh-c.github.io/">
 				<div class="oval">
-				<h3 class="title" id="jamie"><br>(    Jamie     </h3>
+				<h3 class="title" id="jamie"><br>(    Jamie     )</h3>
 				</div>
 				</a>
 			
